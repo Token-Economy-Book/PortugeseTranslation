@@ -6,7 +6,7 @@ Publisher:Token Kitchen, 10119 Berlin <br>
 http://token.kitchen<br>
 Design: Justyna Zubrycka <br>
 Production: Caroline Helbing<br>
-French Translation: António Chagas, Courtnay Guimaraes, Jose Rui Sousa, Joana Camilo
+Portugese Translation: António Chagas, Courtnay Guimaraes, Jose Rui Sousa, Joana Camilo
 
 # Licence
 Copyleft 2020, Shermin Voshmgir: Creative Commons – CC BY-NC-SA<br>
