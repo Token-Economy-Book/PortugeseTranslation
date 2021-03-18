@@ -6,7 +6,7 @@ Publisher:Token Kitchen, 10119 Berlin <br>
 http://token.kitchen<br>
 Design: Justyna Zubrycka <br>
 Production: Caroline Helbing<br>
-Portugese Translation: António Chagas, Courtnay Guimaraes, Jose Rui Sousa, Joana Camilo<br>
+European Portugese Translation: António Chagas, Courtnay Guimaraes, Jose Rui Sousa, Joana Camilo<br>
 
 # Versions
 Github: Portugese: https://github.com/Token-Economy-Book/PortugeseTranslation/wiki (work in progress)<br>
