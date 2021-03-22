@@ -9,8 +9,7 @@ Production: Caroline Helbing<br>
 European Portugese Translation: António Chagas, Courtnay Guimaraes, Jose Rui Sousa, Joana Camilo<br>
 
 # Versions
-Github: Portugese: https://github.com/Token-Economy-Book/PortugeseTranslation/wiki (work in progress)<br>
-If you want to contribute to the collective translation please contact: jsousa@borsini.com, courtnay@uol.com.br, anthagas@hotmail.com<br>
+Portugese: https://github.com/Token-Economy-Book/PortugeseTranslation/wiki<br>
 Other languages: https://github.com/Token-Economy-Book/<br>
 
 # Licence
