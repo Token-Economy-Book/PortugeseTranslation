@@ -9,15 +9,14 @@ Traduzido de “Token Economy: How the Web3 reinvents the Internet”, Segunda E
 * Apple Books (ebook): https://apple.co/3mT5yyk
 * Outras línguas: https://github.com/Token-Economy-Book/
 
-Autor: Shermin Voshmgir <br>
-Produção:Token Kitchen, 10119 Berlin <br>
-http://token.kitchen<br>
-Design: Justyna Zubrycka <br>
-Produção: Caroline Helbing<br>
-Tradução: António Chagas, Courtnay Guimaraes, Jose Rui Sousa, Joana Camilo
-
 # Licença
 Copyleft 2020, Shermin Voshmgir: Creative Commons – CC BY-NC-SA<br>
 https://creativecommons.org/licenses/by-nc-sa/4.0/ <br>
 Esta licença permite aos re-utilizadores distribuir, remixar, adaptar e construir sobre o material em qualquer meio ou formato apenas para fins não comerciais, e apenas enquanto a atribuição for dada ao seu criador. Se remixar, adaptar, ou construir sobre o material, deve licenciar o material modificado em termos idênticos. Para permissões comerciais, contactar: hello@token.kitchen
 
+* Autora: Shermin Voshmgir
+* Tradução: António Chagas, Courtnay Guimaraes, Jose Rui Sousa, Joana Camilo
+* Design: Justyna Zubrycka
+* Produção: Caroline Helbing
+* Editora: Token Kitchen, 10119 Berlin
+* http://token.kitchen
