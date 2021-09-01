@@ -3,8 +3,11 @@ Edição Portuguesa<br>
 Traduzido de “Token Economy: How the Web3 reinvents the Internet”, Segunda Edição, Junho 2020. A primeira edição foi publicada pela BlokchcianHub Berlin em Junho de 2019 sob o título "Token Economy: How Blockchain & Smart contracts revolutionize the Economy" e teve duas edições alteradas.
 
 # Versiones
-Portuguesa: https://github.com/Token-Economy-Book/PortugeseTranslation/wiki<br>
-Other languages: https://github.com/Token-Economy-Book/<br>
+* Edição portuguesa gratuita: https://github.com/Token-Economy-Book/PortugeseTranslation/wiki<br>
+* Amazon (tapa blanda & ebook): https://bit.ly/tkn3cnmyPT
+* Google Play (ebook): https://bit.ly/tkn3cnmyPTggllplay
+* Apple Books (ebook): https://apple.co/3mT5yyk
+* Outras línguas: https://github.com/Token-Economy-Book/
 
 Autor: Shermin Voshmgir <br>
 Produção:Token Kitchen, 10119 Berlin <br>
